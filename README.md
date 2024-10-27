@@ -44,6 +44,9 @@ I am a
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 JmendezRoma
+
+---
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JmendezRoma)
 ---
 
 
