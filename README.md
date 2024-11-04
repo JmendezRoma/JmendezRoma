@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------------------------------------------
 <p align="center">
-  <img src="" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/JmendezRoma/JmendezRoma/blob/main/Image%202024-11-04%20at%2016.30.38.jpeg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Jonathan Romanelli
