@@ -75,6 +75,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 ---
 ### You can checkout my blogs :loudspeaker: 
+in progress
 
 
 
@@ -90,5 +91,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [twitter]:
 [youtube]: 
 [instagram]: 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/jonathanmendezromanelli/
 [medium]: 
