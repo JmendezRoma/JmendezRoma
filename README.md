@@ -7,7 +7,7 @@
 
 I am a Jonathan Romanelli
  
- 🔭 I’m planning for a various projects; meetup web, improve my portfolio
+ 🔭 I’m planning for a various projects; meetup web and improve my portfolio
  
  *.
  
