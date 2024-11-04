@@ -14,7 +14,7 @@ I am a Jonathan Romanelli
  🌱 I’m currently learning node, react
  
  :books: I want to learn and improve various tools , for example MUI library
- <img with="40" height="50" src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000"> and  other lenguage  such as Python<img with="40" height="50" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"/> 
+ <img with="40" height="50" src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000"> and  other lenguage  such as Python <img with="40" height="40" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"/> 
  
  👯 I’m looking to collaborate a game project or useful app
  
