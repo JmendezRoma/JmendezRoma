@@ -1,7 +1,6 @@
 ### Hey Jona here 👋
 
----
-
+---------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="" width="100%" title="Intro Card" alt="Intro Card">
 </p>
@@ -24,11 +23,7 @@ I am a Jonathan Romanelli
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
-
-![Profile views]([https://gpvc.arturio.dev/Souravdey777](https://github.com/JmendezRoma))  <img src="" style=" float:left, margin-right:10px" />
-
-
----
+---------------------------------------------------------------------------------------------------
 
 
 ### Tech & Tools Preference
@@ -49,9 +44,9 @@ I am a Jonathan Romanelli
 
 JmendezRoma
 
----
+---------------------------------------------------------------------------------------------------
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JmendezRoma)
----
+---------------------------------------------------------------------------------------------------
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JmendezRoma&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
@@ -60,7 +55,7 @@ JmendezRoma
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
----
+---------------------------------------------------------------------------------------------------
 
 
 ### You can find in me in the web 🌍
@@ -73,13 +68,13 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 <br/>
 
 
----
+---------------------------------------------------------------------------------------------------
 ### You can checkout my blogs :loudspeaker: 
 in progress
 
 
 
----
+---------------------------------------------------------------------------------------------------
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
