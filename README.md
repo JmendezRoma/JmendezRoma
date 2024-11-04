@@ -14,7 +14,7 @@ I am a Jonathan Romanelli
  🌱 I’m currently learning node, react
  
  :books: I want to learn and improve various tools , for example MUI library
- <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000"> and  other lenguage  such as Python<img src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"/> 
+ <img with="40" height="50" src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000"> and  other lenguage  such as Python<img with="40" height="50" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"/> 
  
  👯 I’m looking to collaborate a game project or useful app
  
@@ -42,7 +42,7 @@ I am a Jonathan Romanelli
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
-JmendezRoma
+
 
 ---------------------------------------------------------------------------------------------------
 ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=JmendezRoma)
@@ -59,13 +59,11 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/s
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/>
+
+<img align="left" with="40" height="50" alt="linkedin" src ="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"/> : https://www.linkedin.com/in/jonathanmendezromanelli/
+
+
 
 
 ---------------------------------------------------------------------------------------------------
@@ -78,13 +76,6 @@ in progress
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
+**Check the Repositories and don't forget to give a star. :star:** 👇
 
-:star: From [SJmendezRoma](https://github.com/JmendezRoma)
 
-[website]:
-[twitter]:
-[youtube]: 
-[instagram]: 
-[linkedin]: https://www.linkedin.com/in/jonathanmendezromanelli/
-[medium]: 
