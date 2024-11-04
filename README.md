@@ -6,17 +6,21 @@
   <img src="" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a 
+I am a Jonathan Romanelli
  
- 🔭 I’m planning for a Project *.
+ 🔭 I’m planning for a various projects; meetup web, improve my portfolio
  
- 🌱 I’m currently learning <img src="">
+ *.
  
- :books: I want to learn <img src=""> and <img src=""/>
+ 🌱 I’m currently learning node, react
  
- 👯 I’m looking to collaborate
+ :books: I want to learn and improve various tools , for example MUI library
+ <img src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000"> and  other lenguage  such as Python<img src="https://www.python.org/static/community_logos/python-powered-h-50x65.png"/> 
  
- 🤔 I’m looking for helpwith
+ 👯 I’m looking to collaborate a game project or useful app
+ 
+ 
+ 🤔 I’m looking for helpwith unity 
  
  💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
