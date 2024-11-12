@@ -37,7 +37,7 @@ I am Jonathan Romanelli
 
 ---------------------------------------------------------------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JmendezRoma&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JmendezRoma&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JmendezRoma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
